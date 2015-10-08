@@ -1,2 +1,2 @@
-#!/usr/bin/python
-print "hi this is my git repo"
+#!/bin/bash
+echo "hi this is my git repo"
